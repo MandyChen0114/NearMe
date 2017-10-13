@@ -15,18 +15,25 @@ PODS:
   - AFNetworking/UIKit (3.1.0):
     - AFNetworking/NSURLSession
   - FLEX (2.4.0)
+  - GoogleMaps (2.4.0):
+    - GoogleMaps/Maps (= 2.4.0)
+  - GoogleMaps/Base (2.4.0)
+  - GoogleMaps/Maps (2.4.0):
+    - GoogleMaps/Base
   - NSDateMinimalTimeAgo (0.1.0)
 
 DEPENDENCIES:
   - AFNetworking
   - FLEX
+  - GoogleMaps
   - NSDateMinimalTimeAgo
 
 SPEC CHECKSUMS:
   AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
   FLEX: bd1a39e55b56bb413b6f1b34b3c10a0dc44ef079
+  GoogleMaps: 8436ab5d1c25e36915b2f7416d0c8e3fa2e76c61
   NSDateMinimalTimeAgo: 71102cc43bb1aa0b5692c953a1abb8c305691475
 
-PODFILE CHECKSUM: 4efeb46ff7bbf6150e906452037152ae02d9d1af
+PODFILE CHECKSUM: 29a61b7fbeaf0dbb302ab7765f2e5da7894aedc9
 
 COCOAPODS: 1.3.1

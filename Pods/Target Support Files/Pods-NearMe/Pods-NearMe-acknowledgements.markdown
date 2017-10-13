@@ -55,6 +55,10 @@ ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
+## GoogleMaps
+
+Copyright 2017 Google
+
 ## NSDateMinimalTimeAgo
 
 Copyright (c) 2014 Josh Holtz <josh@rokkincat.com>

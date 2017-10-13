@@ -9,6 +9,7 @@ target 'NearMe' do
   pod 'AFNetworking'
   pod 'NSDateMinimalTimeAgo'
   pod 'FLEX', :configurations => ['Debug']
+  pod 'GoogleMaps'
 
   target 'NearMeTests' do
     inherit! :search_paths
